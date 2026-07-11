@@ -1,0 +1,7 @@
+cd path/to/your/folder
+git init
+git add index.html
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MrMustacheee/SNOW-WP-CALCULATOR.git
+git push -u origin main
